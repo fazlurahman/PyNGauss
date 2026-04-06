@@ -1,2 +1,2 @@
 # PyNGauss
-Repository containing codes to compute the non-Gaussianity of various astrophysical and cosmological fields.
+PyNGauss is a Python package for computing non-Gaussian summary statistics of 2D random fields and sky maps. Its long-term goal is to provide a unified framework for morphology-based and harmonic-space estimators, including Minkowski Functionals, skewness–kurtosis statistics, bispectra, and related tools. The current release includes implementations of Minkowski Functionals and generalized skewness–kurtosis statistics.
