@@ -1,0 +1,13 @@
+Metadata-Version: 2.4
+Name: pyngauss
+Version: 0.1.0
+Summary: Non-Gaussian statistics for 2D fields
+Requires-Python: >=3.10
+Description-Content-Type: text/markdown
+Requires-Dist: numpy
+Requires-Dist: scipy
+Requires-Dist: matplotlib
+Requires-Dist: healpy
+
+# PyNGauss
+PyNGauss is a Python package for computing non-Gaussian summary statistics of 2D random fields and sky maps. Its long-term goal is to provide a unified framework for morphology-based and harmonic-space estimators, including Minkowski Functionals, skewness–kurtosis statistics, bispectra, and related tools. The current release includes implementations of Minkowski Functionals and generalized skewness–kurtosis statistics.

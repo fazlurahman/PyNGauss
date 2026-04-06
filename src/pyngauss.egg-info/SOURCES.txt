@@ -1,0 +1,7 @@
+README.md
+pyproject.toml
+src/pyngauss.egg-info/PKG-INFO
+src/pyngauss.egg-info/SOURCES.txt
+src/pyngauss.egg-info/dependency_links.txt
+src/pyngauss.egg-info/requires.txt
+src/pyngauss.egg-info/top_level.txt
