@@ -31,7 +31,7 @@ pip install -e .
 
 If you use `PyNGauss` in your research, please cite the primary package paper:
 
-* **Rahman, et al. (2026).** *Non-Gaussianity of Galactic Foreground Maps.* (Insert Journal/arXiv link here when published)
+* **Rahman, et al. (2026).** *Understanding the non-Gaussian nature of Galactic foreground emissions towards small scales* 
 
 The theoretical framework and numerical algorithms implemented in this code are based on the following foundational papers:
 
