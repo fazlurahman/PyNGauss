@@ -1,5 +1,10 @@
 README.md
 pyproject.toml
+src/pyngauss/__init__.py
+src/pyngauss/filters.py
+src/pyngauss/mfs.py
+src/pyngauss/sk.py
+src/pyngauss/theory.py
 src/pyngauss.egg-info/PKG-INFO
 src/pyngauss.egg-info/SOURCES.txt
 src/pyngauss.egg-info/dependency_links.txt

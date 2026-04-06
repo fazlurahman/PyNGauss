@@ -12,8 +12,7 @@ dependencies = [
     "numpy",
     "scipy",
     "matplotlib",
-    "healpy",
-    "NaMaster"
+    "healpy"
 ]
 
 [tool.setuptools]
