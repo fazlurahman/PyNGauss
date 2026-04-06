@@ -7,7 +7,7 @@ PyNGauss is a Python package for computing non-Gaussian summary statistics of 2D
 You can install `PyNGauss` directly from the source code. First, clone the repository to your local machine:
 
 ```bash
-git clone [https://github.com/yourusername/pyngauss.git](https://github.com/yourusername/pyngauss.git)
+git clone [https://github.com/fazlurahman/pyngauss.git](https://github.com/fazlurahman/pyngauss.git)
 cd pyngauss
 ```
 
