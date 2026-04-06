@@ -35,5 +35,5 @@ If you use `PyNGauss` in your research, please cite the primary package paper:
 
 The theoretical framework and numerical algorithms implemented in this code are based on the following foundational papers:
 
-* **Continuous Sphere Theory:** Schmalzing, J., & Górski, K. M. (1998). Minkowski functionals used in the morphological analysis of cosmic microwave background anisotropy maps. *Monthly Notices of the Royal Astronomical Society*, 297(2), 355-365. [arXiv:astro-ph/9710185](https://arxiv.org/abs/astro-ph/9710185)
-* **Pixel Window Corrections (Lim-Simon):** Lim, E. A., & Simon, D. (2012). Minkowski functionals of cosmic microwave background temperature and polarization fields. *Journal of Cosmology and Astroparticle Physics*, 2012(01), 048. [arXiv:1103.4300](https://arxiv.org/abs/1103.4300)
+* **Continuous Sphere Theory:** Schmalzing, J., & Górski, K. M. (1998). Minkowski Functionals used in the Morphological Analysis of Cosmic Microwave Background Anisotropy Maps *Monthly Notices of the Royal Astronomical Society*, 297(2), 355-365. [arXiv:astro-ph/9710185](https://arxiv.org/abs/astro-ph/9710185)
+* **Pixel Window Corrections (Lim-Simon):** Lim, E. A., & Simon, D. (2012). Can we detect Hot or Cold spots in the CMB with Minkowski Functionals?. *Journal of Cosmology and Astroparticle Physics*, 2012(01), 048. [arXiv:1103.4300](https://arxiv.org/abs/1103.4300)
